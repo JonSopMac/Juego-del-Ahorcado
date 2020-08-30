@@ -1,2 +1,2 @@
-# Juego-del-Ahorcado
-Encontrar la palabra secreta antes de que se terminen los intentos disponibles.
+# Juego del Ahorcado
+Encontrar la palabra secreta  antes que termine los intentos.
